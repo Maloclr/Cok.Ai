@@ -4,7 +4,7 @@
   "description": "Cok.Ai - Assistant IA",
   "type": "commonjs",
   "scripts": {
-    "start": "node server.js"
+    "start": "node serveur.js"
   },
   "dependencies": {
     "express": "^4.21.2"
