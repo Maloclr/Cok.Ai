@@ -1,12 +1,13 @@
 {
-  "name": "cok-ai",
-  "version": "1.0.0",
-  "description": "Cok.Ai - Assistant IA",
-  "type": "module",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "express": "^4.21.2"
-  }
+“name”: “cok-ai”,
+“version”: “1.0.0”,
+“description”: “Cok.Ai - Assistant IA”,
+“type”: “commonjs”,
+“scripts”: {
+“start”: “node server.js”
+},
+“dependencies”: {
+“express”: “^4.21.2”
 }
+}
+
